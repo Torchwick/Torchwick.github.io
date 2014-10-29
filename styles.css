@@ -2,7 +2,7 @@ h1
 {
   font-size: 3em;
   margin: 0.67em 0;
-  color: #000000;	
+  color: #FD6922;	
 }
 body {
   font: 14px/22px "Quattrocento Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -15,12 +15,17 @@ body {
 
 table
 {
-	background: #FCAD5F
+	background: #000000
 	border-collapse: collapse;
     border-spacing: 0;
+	Border: 7px inset #FD6922
 }
 
 td
 {
 	padding: 4px
+}
+tr {
+    background-color: #FCAD5F;
+    color: #000000;
 }
